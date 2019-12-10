@@ -20,4 +20,19 @@ UPDATE ME
   TYPE : link
   LINK : https://github.com/TangentFoxy/memex/blob/master/content/data.ndtl
   DONE : true
+  DATE : 2019-12-09
+
+Tape
+  TYPE : tool
+  LINK : https://aeriform.itch.io/tape
+  NOTE : Might be useful for productivity.. more likely will just use as inspiration.
+  TAGS : productivity
+  DATE : 2019-12-09
+
+Neurodiversity as Superpower
+  LINK : https://cybre.space/@AmyZenunim/102996221693908826
+  QOTE : what if our neurodivergences were superpowers?
+  TAGS : jump
+  DATE : 2019-12-09
+  TYPE : quote
 `
