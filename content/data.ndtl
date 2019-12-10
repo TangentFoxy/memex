@@ -1,11 +1,11 @@
 var DATABASE = `
-EXAMPLE NDTL
+Example NDTL File
   LINK : https://github.com/kormyen/memex/blob/master/content/data.ndtl
   TAGS : reference
   DATE : 2019-12-09
   TYPE : link
 
-UTOPIA FOR REALISTS BY RUTGER BREGMAN
+Utopia For Realists by Rutger Bregman
   TAGS : nonfiction
   DONE : false
   DATE : 2019-12-09
@@ -15,4 +15,9 @@ Turing's Cathedral by George Dyson
   DONE : false
   DATE : 2019-12-09
   TYPE : book
+
+UPDATE ME
+  TYPE : link
+  LINK : https://github.com/TangentFoxy/memex/blob/master/content/data.ndtl
+  DONE : true
 `
