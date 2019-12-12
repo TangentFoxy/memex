@@ -1,4 +1,10 @@
 var DATABASE = `
+UPDATE ME
+  TYPE : link
+  LINK : https://github.com/TangentFoxy/memex/blob/master/content/data.ndtl
+  DONE : true
+  DATE : 2019-12-09
+
 Example NDTL File
   LINK : https://github.com/kormyen/memex/blob/master/content/data.ndtl
   TAGS : reference
@@ -16,12 +22,6 @@ Turing's Cathedral by George Dyson
   DATE : 2019-12-09
   TYPE : book
 
-UPDATE ME
-  TYPE : link
-  LINK : https://github.com/TangentFoxy/memex/blob/master/content/data.ndtl
-  DONE : true
-  DATE : 2019-12-09
-
 Tape
   TYPE : tool
   LINK : https://aeriform.itch.io/tape
@@ -35,4 +35,10 @@ Neurodiversity as Superpower
   TAGS : jump
   DATE : 2019-12-09
   TYPE : quote
+
+Emptiness vs Lonliness
+  QOTE : Many people are afraid of Emptiness, because it reminds them of Loneliness.
+  TYPE : quote
+  DATE : 2019-12-11
+  TAGS : philosophy
 `
