@@ -10,9 +10,10 @@ Example NDTL File
   TAGS : reference
   DATE : 2019-12-09
   TYPE : link
+  DONE : true
 
 Utopia For Realists by Rutger Bregman
-  TAGS : nonfiction
+  TAGS : nonfiction, readme
   DONE : false
   DATE : 2019-12-09
   TYPE : book
@@ -21,18 +22,19 @@ Turing's Cathedral by George Dyson
   DONE : false
   DATE : 2019-12-09
   TYPE : book
+  TAGS : nonfiction
 
 Tape
   TYPE : tool
   LINK : https://aeriform.itch.io/tape
   NOTE : Might be useful for productivity.. more likely will just use as inspiration.
-  TAGS : productivity
+  TAGS : productivity, inspiration
   DATE : 2019-12-09
 
 Neurodiversity as Superpower
   LINK : https://cybre.space/@AmyZenunim/102996221693908826
   QOTE : what if our neurodivergences were superpowers?
-  TAGS : jump
+  TAGS : inspiration
   DATE : 2019-12-09
   TYPE : quote
 
@@ -41,4 +43,21 @@ Emptiness vs Lonliness
   TYPE : quote
   DATE : 2019-12-11
   TAGS : philosophy
+
+Effectiveness, Efficiency
+  QOTE : Effectiveness, is doing the right thing. Efficiency, is doing it the right way.
+  TYPE : quote
+  DATE : 2019-12-11
+
+Horaire (time-tracking format)
+  LINK : https://wiki.xxiivv.com/#horaire
+  TAGS : xxiivv, productivity
+  NOTE : A format designed to be simple, readable, and easily parsed into infographics.
+  TYPE : format
+
+Arvelie (an alternate calendar)
+  LINK : https://wiki.xxiivv.com/#arvelie
+  TAGS : xxiivv, inspiration
+  NOTE : 26 months, named after the English alphabet, each of 2 weeks with 7 days.
+  TYPE : format
 `
