@@ -22,7 +22,7 @@ Turing's Cathedral by George Dyson
   DONE : false
   DATE : 2019-12-09
   TYPE : book
-  TAGS : nonfiction
+  TAGS : nonfiction, readme
 
 Tape
   TYPE : tool
@@ -48,18 +48,17 @@ Effectiveness, Efficiency
   QOTE : Effectiveness, is doing the right thing. Efficiency, is doing it the right way.
   TYPE : quote
   DATE : 2019-12-11
+  TAGS : definition
 
 Horaire (time-tracking format)
   LINK : https://wiki.xxiivv.com/#horaire
-  TAGS : xxiivv, productivity
+  TAGS : xxiivv, productivity, format
   NOTE : A format designed to be simple, readable, and easily parsed into infographics.
-  TYPE : format
 
 Arvelie (an alternate calendar)
   LINK : https://wiki.xxiivv.com/#arvelie
-  TAGS : xxiivv, inspiration
+  TAGS : xxiivv, inspiration, format
   NOTE : 26 months, named after the English alphabet, each of 2 weeks with 7 days.
-  TYPE : format
 
 Damoiseau + Canalx by aliceffekt
   LINK : https://aliceffekt.bandcamp.com/album/damoiseau-canalx
@@ -93,4 +92,10 @@ tmux cheatsheet
   TAGS : reference, sysadmin, linux, cli, terminal
   DATE : 2019-12-20
   TYPE : link
+
+6502
+  LINK : https://en.wikipedia.org/wiki/MOS_Technology_6502
+  TAGS : readme
+  NOTE : Microprocessor that served as a fundamental introduction to computers for the general public.
+  DATE : 2019-12-21
 `
