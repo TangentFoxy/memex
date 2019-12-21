@@ -4,10 +4,11 @@ UPDATE ME
   LINK : https://github.com/TangentFoxy/memex/blob/master/content/data.ndtl
   DONE : true
   DATE : 2019-12-09
+  TAGS : memex
 
 Example NDTL File
   LINK : https://github.com/kormyen/memex/blob/master/content/data.ndtl
-  TAGS : reference
+  TAGS : reference, memex
   DATE : 2019-12-09
   TYPE : link
   DONE : true
@@ -98,4 +99,8 @@ tmux cheatsheet
   TAGS : readme
   NOTE : Microprocessor that served as a fundamental introduction to computers for the general public.
   DATE : 2019-12-21
+
+Supported icon types
+  LINK : https://github.com/TangentFoxy/memex/blob/master/logic/view/util.js#L11
+  TAGS : memex, reference
 `
