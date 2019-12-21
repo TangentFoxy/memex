@@ -53,12 +53,14 @@ Effectiveness, Efficiency
 
 Horaire (time-tracking format)
   LINK : https://wiki.xxiivv.com/#horaire
-  TAGS : xxiivv, productivity, format
+  TAGS : xxiivv, productivity
+  TYPE : format
   NOTE : A format designed to be simple, readable, and easily parsed into infographics.
 
 Arvelie (an alternate calendar)
   LINK : https://wiki.xxiivv.com/#arvelie
-  TAGS : xxiivv, inspiration, format
+  TAGS : xxiivv, inspiration
+  TYPE : format
   NOTE : 26 months, named after the English alphabet, each of 2 weeks with 7 days.
 
 Damoiseau + Canalx by aliceffekt
@@ -97,6 +99,7 @@ tmux cheatsheet
 6502
   LINK : https://en.wikipedia.org/wiki/MOS_Technology_6502
   TAGS : readme
+  TYPE : article
   NOTE : Microprocessor that served as a fundamental introduction to computers for the general public.
   DATE : 2019-12-21
 
