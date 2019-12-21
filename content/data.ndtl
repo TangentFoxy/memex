@@ -81,4 +81,16 @@ Telekinetic by aliceffekt
   LINK : https://aliceffekt.bandcamp.com/album/telekinetic
   TAGS : xxiivv
   TYPE : music
+
+disk burn-in testing
+  LINK : https://github.com/Spearfoot/disk-burnin-and-testing
+  TYPE : program
+  DATE : 2019-12-20
+  TAGS : sysadmin
+
+tmux cheatsheet
+  LINK : https://gist.github.com/MohamedAlaa/2961058
+  TAGS : reference, sysadmin, linux, cli, terminal
+  DATE : 2019-12-20
+  TYPE : link
 `
