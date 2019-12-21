@@ -1,6 +1,6 @@
 const SETTINGS = 
 {
-	STATSNUMTAGS: 5,
+	STATSNUMTAGS: 10,
 	STATSNUMTYPE: 10,
 	LOADANIMNUM: 50,
 	WIDEARTICLE: true,
@@ -13,7 +13,6 @@ const SETTINGS =
 	SHOWDATE: true,
 	SHOWAUTH: true,
 	SHOWTYPE: true,
-	SHOWDONE: true,
 	SHOWLINK: true,
 	SHOWLOWER: true,
 	SHOWTAGS: true,
