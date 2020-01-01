@@ -137,4 +137,70 @@ Pretty SSTO
   LINK : https://i.redd.it/a0a105jupv741.png
   TAGS : inspiration, ksp
   DATE : 2020-01-01
+
+Drive a semi-truck on Duna
+  TAGS : inspiration, ksp
+
+Compiled Works 2018 by Revindth
+  LINK : https://revindth.bandcamp.com/album/compiled-works-2018
+  TYPE : music
+  DONE : false
+  DATE : 2020-01-01
+
+Dispatch
+  TYPE : game
+  LINK : https://aeriform.itch.io/dispatch
+  TAGS : itch, scifi, dark
+
+Learn Anything
+  TYPE : tool
+  LINK : https://learn-anything.xyz/
+  TAGS : reference, education, learning
+
+Wtf is this
+  TYPE : video
+  LINK : https://www.youtube.com/watch?v=vQ4jvVtHRpg
+
+Hypothetical thrusters
+  NOTE : These are listed by name, regardless of practicality or possibility within reality.
+  TERM
+    > Mach/Woodward Effect Thruster: Field propulsion spacecraft harnessing transient mass fluctuations in an object absorbing internal energy while undergoing proper acceleration. (Impossible!)
+    > Impulse Engine: An engine causing acceleration through creating gravitational potential, not requiring a negative energy gradient, but not allowing relativistic speeds either. (Seems more possible than other things here.)
+    > Wormhole traversal: Theoretically possible with exotic matter / negative energy gradient, also theoretically allows warp travel.
+    > Alcubierre drive: Theoretical model of warp drive, requires more energy than a solar system(citation needed) and negative energy.
+    > Helical Engine: Taking advantage of inertial mass changes in a stream of orbiting particles traveling at relativistic speeds to generate momentum without reaction mass in a closed system. (Impossible!)
+    > Gyroscopic Inertial Thruster: Generates an anomalous thrust vector by pushing on a gyroscope. (Impossible, thoroughly studied.)
+    > Dean drive: Some dude made a drive that actually works by friction, but was reported as a closed system reactionless drive.
+    > Quantum vacuum thruster (QVT): Theoretical system like a plasma thruster, but operating on quantum vacuum fluctuations (aka the zero-point field) instead of a propellant.
+    > Casimir drive: Hypothetical drive pushing off of the zero-point field.. Basically a QVT's alternate name.
+    > Resonant cavity thruster: Akin to the EmDrive, supposedly produces net thrust through resonating an electromagnetic wave through a conical cavity. Closed system, impossible.
+    > VSL drive: A drive that manipulates the speed of light locally to provide faster travel than otherwise possible. (I made this one up.)
+    > Bimetric gravity drive: Made it up. Basically treating gravity as two metric tensors where the speed of light can become variable (hey whaddaya know, it's related to VSL)
+    > FSD (Frameshift Drive): The FTL technology of the Elite universe, adjusts reference frames somehow allowing travel at many relativistic speeds.
+    > Field propulsion drive: A class of drives based on pushing off of fundamental fields (i.e. Higgs field) instead of using propellant. These probably all violate physics.
+    > Semi-inert drive: Fictional drive that partially eliminates inertia, allowing FTL travel. (Skipping infinite inertia buildup on approach to c, and skipping past the limit of c entirely.)
+    > Chromodynamic drive: Made-up name for a drive, inspired by quantum chromodynamics, a real field of research / property of quantum mechanics. I don't remember which.
+    > Belief/Mana/Soul drive: Fictional drive powered by thought, spirituality, or belief in its ability. Pure nonsense in reality, fun for writing perhaps.
+    > Ion engine: I mean, these are real, but imagine a stupidly efficient overpowered one that isn't actually possible. :P
+
+Abraham–Minkowski controversy
+  LINK : https://en.wikipedia.org/wiki/Abraham%E2%80%93Minkowski_controversy
+  TYPE : article
+  DONE : false
+  TAGS : readme, science
+  NOTE : Make up a theoretical drive based on this. :P
+
+Theories about VSL
+  LINK : https://en.wikipedia.org/wiki/Variable_speed_of_light#Modern_VSL_theories_as_an_alternative_to_cosmic_inflation
+  TYPE : article
+  DONE : false
+  TAGS : readme, science
+  NOTE : Most likely not at all real, but fun to think about.
+
+Bibites (Artificial Life)
+  LINK : https://www.youtube.com/watch?v=M6RLGJceLJg
+  TYPE : video
+  DONE : true
+  TAGS : simulation, programming, artificial life
+  NOTE : Neat stuff here, check out his channel too.
 `
