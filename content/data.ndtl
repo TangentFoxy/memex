@@ -224,7 +224,8 @@ Run a web server from within CompuerCraft for the lols?
   DONE : false
   NOTE : Also, what was that idea I had about a host / service just for ComputerCraft?
 
-I really need to install NordVPN on my laptop
-  TYPE : todo
-  DONE : false
+Reactive Programming
+  TYPE : article
+  LINK : https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+  TAGS : reading, programming
 `
