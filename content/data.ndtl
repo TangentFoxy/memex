@@ -233,4 +233,34 @@ Lua WinAPI access library
   TYPE : tool
   LINK : http://stevedonovan.github.io/winapi/api.html
   TAGS : sysadmin, programming
+
+3D Painting
+  LINK : https://www.google.com/search?q=3d+paintings
+  NOTE : I had an idea to make a painting out of entirely black paint, made to be seen and felt by its dimension instead of color.
+  DATE : 2023-05-21
+  TAGS : art, painting
+
+Stealth aircraft are not immune, but are not weak either
+  LINK : https://nationalinterest.org/blog/reboot/stealth-down-how-serbian-forces-shot-down-american-f-117-1999-173664
+  NOTE : America is too reckless with its supremacy, allowing an intelligent enemy advantage where they should have none.
+  TAGS : aircraft, stealth
+  DATE : 2023-05-21
+
+Simple ComputerCraft DFPWM player
+  LINK : https://pastebin.com/mcSq9PuW
+  NOTE : I want to make a way to play longer pieces continuously. Would be even cooler if I could successfully buffer downloads and stream.
+  LINK : https://tweaked.cc/module/rednet.html#v:receive
+  DATE : 2023-05-21
+  TAGS : Minecraft, ComputerCraft, music
+
+DFPWM Converter
+  LINK : https://music.madefor.cc/
+  TYPE : tool
+  TAGS : Minecraft, web tool, music, conversion, ComputerCraft
+  DATE : 2023-05-21
+
+Ben Prunty
+  LINK : https://benprunty.bandcamp.com/
+  TYPE : music
+  DATE : 2023-05-21
 `
