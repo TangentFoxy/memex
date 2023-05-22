@@ -50,23 +50,27 @@ Effectiveness, Efficiency
   TYPE : quote
   DATE : 2019-12-11
   TAGS : definition
+  DATE : 2019-12-11
 
 Horaire (time-tracking format)
   LINK : https://wiki.xxiivv.com/#horaire
   TAGS : xxiivv, productivity
   TYPE : format
   NOTE : A format designed to be simple, readable, and easily parsed into infographics.
+  DATE : 2019-12-11
 
 Arvelie (an alternate calendar)
   LINK : https://wiki.xxiivv.com/#arvelie
   TAGS : xxiivv, inspiration
   TYPE : format
   NOTE : 26 months, named after the English alphabet, each of 2 weeks with 7 days.
+  DATE : 2019-12-11
 
 Damoiseau + Canalx by aliceffekt
   LINK : https://aliceffekt.bandcamp.com/album/damoiseau-canalx
   TAGS : xxiivv
   TYPE : music
+  DATE : 2019-12-12
 
 19th month, from Saharaphorest to Duomo by aliceffekt
   LINK : https://aliceffekt.bandcamp.com/album/19th-month-from-saharaphorest-to-duomo
@@ -78,11 +82,13 @@ The Ehrivevnv Studies (Reissue) by aliceffekt
   LINK : https://aliceffekt.bandcamp.com/album/the-ehrivevnv-studies-reissue
   TAGS : xxiivv
   TYPE : music
+  DATE : 2019-12-12
 
 Telekinetic by aliceffekt
   LINK : https://aliceffekt.bandcamp.com/album/telekinetic
   TAGS : xxiivv
   TYPE : music
+  DATE : 2019-12-12
 
 disk burn-in testing
   LINK : https://github.com/Spearfoot/disk-burnin-and-testing
@@ -140,6 +146,7 @@ Pretty SSTO
 
 Drive a semi-truck on Duna
   TAGS : inspiration, ksp
+  DATE : 2020-01-01
 
 Compiled Works 2018 by Revindth
   LINK : https://revindth.bandcamp.com/album/compiled-works-2018
@@ -151,14 +158,17 @@ Dispatch
   TYPE : game
   LINK : https://aeriform.itch.io/dispatch
   TAGS : itch, scifi, dark
+  DATE : 2020-01-01
 
 Learn Anything
   TYPE : tool
   LINK : https://learn-anything.xyz/
   TAGS : reference, education, learning
+  DATE : 2020-01-01
 
 Hypothetical thrusters
   NOTE : These are listed by name, regardless of practicality or possibility within reality.
+  DATE : 2020-01-01
   TERM
     > Mach/Woodward Effect Thruster: Field propulsion spacecraft harnessing transient mass fluctuations in an object absorbing internal energy while undergoing proper acceleration. (Impossible!)
     > Impulse Engine: An engine causing acceleration through creating gravitational potential, not requiring a negative energy gradient, but not allowing relativistic speeds either. (Seems more possible than other things here.)
@@ -185,6 +195,7 @@ Abraham–Minkowski controversy
   DONE : false
   TAGS : readme, science
   NOTE : Make up a theoretical drive based on this. :P
+  DATE : 2020-01-01
 
 Variable Speed of Light Theories
   LINK : https://en.wikipedia.org/wiki/Variable_speed_of_light#Modern_VSL_theories_as_an_alternative_to_cosmic_inflation
@@ -192,6 +203,7 @@ Variable Speed of Light Theories
   DONE : false
   TAGS : readme, science
   NOTE : Most likely not at all real, but fun to think about.
+  DATE : 2020-01-01
 
 Bibites (Artificial Life)
   LINK : https://www.youtube.com/watch?v=M6RLGJceLJg
@@ -199,24 +211,29 @@ Bibites (Artificial Life)
   DONE : true
   TAGS : simulation, programming, artificial life
   NOTE : Neat stuff here, check out his channel too.
+  DATE : 2020-01-01
 
 Awesome prop plane
   LINK : https://i.redd.it/qm9n316dyg741.png
   NOTE : I want to copy the flaps design because it is very pretty.
   TAGS : inspiration, ksp
+  DATE : 2020-01-04
 
 The Martian spacecraft
   LINK : https://i.imgur.com/BubRi3W.jpg
   TAGS : inspiration, ksp
+  DATE : 2020-01-04
 
 The Martian spacecraft replicated in KSP
   LINK : https://i.redd.it/4w19ysczxf741.png
   TAGS : inspiration, ksp, formatting test
   NOTE : Also see (link "https://i.imgur.com/FIqfqgg.png")
+  DATE : 2020-01-04
 
 Going to all the radar sites would be fun
   LINK : https://i.redd.it/58ej0vh6te741.png
   TAGS : inspiration, ksp
+  DATE : 2020-01-04
 
 Run a web server from within CompuerCraft for the lols?
   TYPE : idea
@@ -228,11 +245,13 @@ Reactive Programming
   TYPE : article
   LINK : https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
   TAGS : reading, programming
+  DATE : 2020-02-26
 
 Lua WinAPI access library
   TYPE : tool
   LINK : http://stevedonovan.github.io/winapi/api.html
   TAGS : sysadmin, programming
+  DATE : 2020-02-26
 
 3D Painting
   LINK : https://www.google.com/search?q=3d+paintings
@@ -263,4 +282,9 @@ Ben Prunty
   LINK : https://benprunty.bandcamp.com/
   TYPE : music
   DATE : 2023-05-21
+
+How to add custom types to memex
+  LINK : https://github.com/kormyen/memex/commit/2414543d55c03924e5a567a77dcba2be4d2e2829
+  DATE : 2023-05-21
+  TAGS : memex, reference
 `
